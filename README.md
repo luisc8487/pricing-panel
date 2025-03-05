@@ -29,3 +29,19 @@ To ensure the pricing panel is viewable across all devices, **media queries** ar
 - Adjust the flex properties based on screen width.
 - Stack columns vertically on smaller screens for better readability.
 - Modify font sizes, spacing, and other CSS properties for an optimized user experience.
+
+## How to Use
+1. Clone or download the repository.
+2. Open the `index.html` file in a web browser. 
+3. Resize the browser window to see how the pricing panel adapts to different screen sizes.
+4. Modify the CSS file to experiment with different Flexbox properties.
+
+## Technologies Used
+- **HTML5** for structuring the layout.
+- **CSS3** for styling and implementing Flexbox properties.
+- **Media Queries** for responsive design.
+
+## Future Enhancements
+- Adding animations to enhance user interaction.
+- Implementing JavaScript to dynamically update pricing details.
+- Exploring CSS Grid for additional layout options.
