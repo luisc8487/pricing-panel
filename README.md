@@ -1,5 +1,7 @@
 # Project Pricing Panel
 
+![pricing-plan](https://github.com/user-attachments/assets/f80aaca0-ee64-40ef-b817-98429f7cc1a5)
+
 ## Overview
 This project demonstrates the use of **HTML and CSS** to create a responsive pricing panel with three columns: **Personal, Small Team, and Enterprise**. The goal is to practice various Flexbox properties and ensure the panel adapts to different screen sizes for an optimal viewing experience on all devices.
 
